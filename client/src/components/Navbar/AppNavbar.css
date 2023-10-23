@@ -1,0 +1,17 @@
+.app_nav{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    color: aqua;
+    padding-top: 1rem;
+}
+.app_name{
+    padding: 0 3rem;
+}
+.btn_nav{
+    padding: 0 5rem;
+}
+.dom_links{
+    color: aqua;
+    text-decoration: none;
+}
